@@ -1,0 +1,12 @@
+h1, h2,p,a
+{margin: 30px 50px }
+h1 { color:red}
+.grijs,p { color: gray}
+a { 
+    background-color: red; padding: 10px; color: white ; border-radius: 4px; text-decoration: none;}
+a:hover {
+        color: #000000; }
+body {
+    background-color:#e9eaea; 
+    font-family: arial, Helvetica, Sans-serif
+}
